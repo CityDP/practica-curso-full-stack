@@ -1,0 +1,11 @@
+{
+  "name": "practica-curso-full-stack",
+  "version": "1.0.0",
+  "description": "Primer proyecto en NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diana Paola Pinzón",
+  "license": "ISC"
+}
